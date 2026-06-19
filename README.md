@@ -1,5 +1,7 @@
 # Prompt-Injection Lab
 
+[![CI](https://github.com/danielduongg/prompt-injection-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/danielduongg/prompt-injection-lab/actions)
+
 **A lightweight prompt-injection detector + an LLM jailbreak-robustness evaluation harness — and an honest look at where cheap defenses fail.**
 
 This repo is a small, fully reproducible testbed for AI-security research on
